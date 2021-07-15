@@ -1,0 +1,341 @@
+body {
+    background-color: #E5E5E5;
+}
+.banner-1 {
+    text-align: center;
+    background-color: #0B2239;
+    margin: auto;
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 24px;
+}
+
+.banner-1 button {
+    width: 130px;
+    height: 36px;
+    left: 116px;
+    top: 0px;
+    background: #4AD295;
+    border-radius: 2px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.content {
+    max-width: 922px;
+    color: white;
+    display: inline;
+    font-family: Inter;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13px;
+    line-height: 20px;
+    margin: 0 32;
+}
+.settings {
+    color: #4AD295;
+    font-weight: 600;
+    font-size: 12px;
+    font-family: Inter;
+    margin: 0px 10px;
+}
+.button-cookie {
+    position: relative;
+    background-color:  #4AD295;
+    color: white;
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 12px;
+    font-style: normal;
+    border-radius: 2px;
+    padding: 8px 10px;
+    cursor: pointer;
+}
+
+.banner-2 {    
+    text-align: center;
+    margin: auto;
+    width: 95%;
+    padding: 10px;
+    background: #2B2627;
+    box-shadow: 0px 12px 24px -6px rgba(96, 96, 96, 0.15), 0px 0px 1px rgba(96, 96, 96, 0.1);
+}
+.content-banner-2 {
+    display: inline-flex;
+    width: 708px;
+    height: 20px;
+    left: 24px;
+    top: 0px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight:400;
+    font-size: 13px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin: 0px 8px;
+}
+ 
+.img_cross {
+    position: static;
+    width: 16px;
+    height: 16px;
+    left: 733px;
+    top: 2px;   
+}
+
+.img_exl_mark {
+    padding-right: 1px;
+    width: 16px;
+    height: 16px;
+    left: 0px;
+    top: 2px;
+
+    background: url(image.png);
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    border-radius: 16px;
+}
+
+.banner-3 {
+    background: white;
+    width: 560px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    border-radius: 16px;
+    padding: 16px;
+}
+
+.img-cookie {
+    padding-right: 5px;
+}
+.wrapper a{
+    color: red;
+}
+.content-banner-3 {
+    font-family: Inter;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #0D0C22;
+}
+.decline-button {
+    width: 63px;
+    height: 28px;
+    left: 419px;
+    top: 22px;
+    background-color:#919194d5;
+    border-radius: 8px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    color: #0D0C22;
+    margin-right: 5px;
+}
+
+.allow-button {
+    width: 52px;
+    height: 28px;
+    left: 492px;
+    top: 22px;  
+    background: #EA4C89;
+    border-radius: 8px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.banner-4 {
+    background: #26262B;
+    max-width: 560px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    color:white;
+    font-family: Avenir LT Std;
+    font-size: 12px;
+    font-weight: 400px;
+    line-height: 20px;
+    border-radius: 10px;
+    padding: 12px 16px;
+}
+.banner-4 button {
+    width: 49px;
+    height: 28px;
+    left: 495px;
+    top: 18px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    font-family: Avenir LT Std;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 20px;
+    color: #26262B;
+}
+
+.wrapper-horizontal{
+    width: 760px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-bottom: 40px;
+    border-radius: 6px;
+}
+
+.banner-5{
+    width: 360px;
+    background-color: #1C2540;
+    margin: 0px 16px;
+    font-family: Roboto;
+    color: white;
+    font-size: 14px;
+    font-weight: 400px;
+    padding: 24px;
+    border-radius: 16px;
+}
+
+.banner-5 button {
+    width: 85px;
+    height: 32px;
+    left: 227px;
+    top: 0px;
+
+    background: #09B3AF;
+    box-shadow: 0px 2px 2px -2px rgba(34, 38, 50, 0.3);
+    border-radius: 6px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.banner-6 {
+    width: 360px;
+    background-color: #FFFFFF;
+    margin: 0px 40px;
+    font-family: Roboto;
+    border-radius: 16px;
+    text-align: justify;
+    padding: 20px;
+}
+
+.manage-button {
+    width: 140px;
+    height: 32px;
+    left: 0px;
+    top: 0px;
+
+    background: #EAF0F4;
+    box-shadow: 0px 2px 2px -2px rgba(34, 38, 50, 0.3);
+    border-radius: 6px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #687F8C;
+}
+
+.accept-button {
+    width: 140px;
+    height: 32px;
+    left: 168px;
+    top: 0px;
+
+    background: #40C1A7;
+    box-shadow: 0px 2px 2px -2px rgba(34, 38, 50, 0.3);
+    border-radius: 6px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+
+    color: #FFFFFF;
+    float: right;
+}
+
+.banner-7 {
+    background-color: #fff;
+    width: 320px;
+    margin: 0px 16px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+}
+.banner-7 h1,p, button {
+    margin: 10px 0px; 
+}
+
+
+.banner-8 {
+    background-color: #fff;
+    width: 320px;
+    margin: 0px 40px;
+    padding: 20px;
+    border-radius: 4px;
+}
+.banner-8 button {
+    width: 64px;
+    height: 33px;
+    left: 224px;
+    top: 0px;
+
+    background: #6666FF;
+    border-radius: 4px;
+    font-family: SF Pro Text;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #FFFFFF;
+    float: right;
+}
+
+button {
+    border: 0px;
+    cursor: pointer;
+}
+.header {
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 48px;
+    text-align: center;
+    color: #15295A;
+}
+.banner-7 button{
+    background: #4A7EFF;
+    border-radius: 43px;
+    width: 121px;
+    height: 44px;
+    left: 99.5px;
+    top: 184px;
+    border: 0px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
