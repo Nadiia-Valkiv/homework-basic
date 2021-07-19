@@ -1,0 +1,369 @@
+header {
+position: absolute;
+width: 1440px;
+height: 500px;
+left: 0px;
+top: 0px;
+background: #ED4C5C;
+}
+
+.big-text {
+    position: absolute;
+    width: 445px;
+    height: 107px;
+    left: 165px;
+    top: 122px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    
+    color: #FFFFFF;
+}
+.small-text {
+    position: absolute;
+    width: 445px;
+    height: 64px;
+    left: 165px;
+    top: 253px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;    
+    text-align: justify;
+    color: #FFFFFF;
+}
+.app-dowload-link {
+    position: absolute;
+    width: 134px;
+    height: 32px;
+    left: 163px;
+    top: 357px;
+}
+.playstore-logo {
+    position: absolute;
+width: 32px;
+height: 32px;
+left: 0px;
+top: 0px;
+}
+.appstore-logo {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 55px;
+    top: 0px;
+
+}
+
+.windows-logo {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 110px;
+    top: 4px;
+}
+header > img {
+    position: absolute;
+width: 445px;
+height: 311px;
+left: 735px;
+top: 94px;
+background: url(.jpg), #C4C4C4;
+border-radius: 15px;
+}
+
+.main-big-text{
+    position: absolute;
+    width: 445px;
+    height: 107px;
+    left: 176px;
+    top: 617px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    
+    color: #000000;
+}
+.main-small-text{
+    position: absolute;
+    width: 434px;
+    height: 64px;
+    left: 176px;
+    top: 713px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+    /* or 20px */
+    
+    text-align: justify;
+    
+    color: #000000;
+
+}
+
+.right-field {
+    position: absolute;
+width: 540px;
+height: 305px;
+left: 735px;
+top: 617px;
+}
+.first-name {
+    width: 255px;
+    height: 60px;
+    left: 735px;
+    top: 617px;
+    
+    /* Gray 1 */
+    
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-bottom: 24px;
+    padding-left: 31px;
+}
+
+.last-name {
+    width: 255px;
+    height: 60px;
+    left: 1020px;
+    top: 617px;
+    
+    /* Gray 1 */
+    
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-left: 26px;
+    padding-left: 31px;
+}
+
+.phone-number {
+    width: 540px;
+    height: 60px;
+    left: 735px;
+    top: 701px;
+    
+    /* Gray 1 */
+    
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-bottom: 24px;
+    padding-left: 31px;
+}
+.select-service {
+    width: 540px;
+    height: 60px;
+    left: 735px;
+    top: 785px;
+    
+    /* Gray 1 */
+    
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-bottom: 24px;
+    padding-left: 31px;
+}
+.submit-button {
+    width: 160px;
+    height: 50px;
+    left: 735px;
+    top: 872px;
+    
+    background: #ED4C5C;
+    border: 1.5px solid #ED4C5C;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+footer {
+    position: absolute;
+width: 1440px;
+height: 435px;
+left: 0px;
+top: 1045px;
+background: #FAFAFA;
+}
+ 
+
+.footer-head {
+    position: absolute;
+    left: 166px;
+    top: 85px;
+    width: 65px;
+    height: 22px;
+        
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #101010;
+}
+.footer-address {
+    position: absolute;
+    left: 166px;
+    top: 140px;
+    width: 254px;
+    height: 54px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 150%;
+    /* or 18px */
+    
+    
+    color: #101010;
+}
+.copyright {
+width: 155px;
+height: 14px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+
+color: #101010;
+}
+
+.column1 {
+    position: absolute;
+    left: 166px;
+    top: 85px;
+}
+ .copyright-block {
+     position: absolute;
+     left: 161px;
+     top: 335px;
+ }
+
+ .footer-head-2 {
+    position: absolute;
+    width: 67px;
+    height: 22px;
+    left: 450px;
+    top: 85px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    
+    color: #101010;
+ }
+
+ .footer-head-2 a {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 160%;
+    text-decoration: none;
+    
+    color: #000000;
+    
+ }
+
+ .footer-head-2 ul {
+     position: absolute;
+     top: 48px;
+ }
+
+ .footer-head-3 {
+    position: absolute;
+    width: 101px;
+    height: 22px;
+    left: 734px;
+    top: 85px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    
+    color: #101010;
+ }
+
+ .footer-head-4 {
+    position: absolute;
+    width: 96px;
+    height: 22px;
+    left: 1022px;
+    top: 85px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    
+    color: #101010;
+ }
+
+ .mail {
+    position: absolute;
+    width: 122px;
+    height: 14px;
+    top: 48px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    
+    color: #101010;
+    
+ }
+
+ .phone {
+    position: absolute;
+    width: 96px;
+    height: 14px;
+    top: 78px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    
+    color: #121212;
+    
+ }
+
+ .sup-image {
+    position: absolute;
+    width: 216px;
+    height: 31px;
+    left: 1028px;
+    top: 140px;
+ }
