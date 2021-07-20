@@ -465,7 +465,7 @@ button {
   cursor: pointer;
 }
 .header {
-  font-family: Gilroy;
+  font-family: Inter;
   font-style: normal;
   font-weight: 900;
   font-size: 28px;
@@ -520,7 +520,7 @@ button {
   left: 0px;
   top: 8px;
 
-  font-family: SF Pro Text;
+  font-family: Inter;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
