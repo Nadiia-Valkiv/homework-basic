@@ -1,0 +1,107 @@
+body {
+    width: 100%;
+}
+header {
+    position: absolute;
+    width: 1248px;
+    height: 754px;
+    left: 240px;
+    top: 50px;  
+}
+.top {
+    position: absolute;
+    width: 1120px;
+    height: 60px;
+    left: 240px;
+    top: 50px;
+}
+.logo {
+    position: relatives;
+    width: 49px;
+    height: 35px;
+    left: 240px;
+    top: 62px;
+}
+nav {
+    position: absolute;
+    width: 322px;
+    height: 30px;
+    left: 410px;
+    top: 65px;
+}
+.item, .item-1, a {
+    display: inline-block;
+    text-decoration: none; 
+}
+ 
+.menu {
+    list-style: none;
+    display: flexbox;
+    flex-flow:row;
+    justify-content:space-around;
+    align-items: center;
+    width: 322px;
+    height: 30px;
+}
+
+.request-demo {
+    position: absolute;
+    width: 210px;
+    height: 60px;
+    left: 1150px;
+    top: 50px;
+}
+
+.wrapper-1 {
+    position: absolute;
+    width: 1117px;
+    height: 560px;
+    left: 240px;
+    top: 903.18px;  
+    background: rgb(114, 91, 91);  
+}
+
+.wrapper-2 {
+    position: absolute;
+    width: 1136.85px;
+    height: 1002.06px;
+    left: 220px;
+    top: 1613px;
+    background: rgb(114, 91, 91);
+}
+
+.wrapper-3 {
+    position: absolute;
+    width: 1118px;
+    height: 709px;
+    left: 242px;
+    top: 2789px;
+    background: rgb(114, 91, 91);
+}
+
+footer {
+    position: absolute;
+    width: 1600px;
+    height: 761px;
+    left: 0px;
+    top: 3648px;
+    background: rgb(114, 91, 91);
+}
+
+.headline {
+    position: absolute;
+width: 645px;
+height: 464px;
+left: 240px;
+top: 240px;
+}
+
+.background {
+    position: absolute;
+width: 885px;
+height: 468px;
+left: 603px;
+top: 336px;
+background-image: url(/HW-07-flexbox/img/header-background.png);
+
+}
