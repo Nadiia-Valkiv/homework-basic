@@ -98,7 +98,7 @@ input[type="search"] {
     float:right ;
 }
 
-span.material-icons {
+.material-icons {
     cursor: pointer;
 }
 
