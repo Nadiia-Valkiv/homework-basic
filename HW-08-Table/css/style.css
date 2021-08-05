@@ -12,8 +12,8 @@ table {
     margin-bottom: 4vh;
     border-collapse: collapse;
     border-radius: 5px;
-    border-style: hidden; /* hide standard table (collapsed) border */
-    box-shadow: 0 0 0 1px #666; /* this draws the table border  */ 
+    border-style: hidden; 
+    box-shadow: 0 0 0 1px #666;
     padding: 2px;
     color: #858585;
     text-indent: 5px;
@@ -82,7 +82,7 @@ tbody > tr :last-child {
 input[type="search"] { 
     font-size: 15px;
     padding-top: 7px;
-    width: 60%;
+    width: 63%;
     float: right;
     margin: 0;
     background:no-repeat;
