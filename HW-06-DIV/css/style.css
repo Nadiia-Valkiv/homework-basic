@@ -263,18 +263,12 @@ footer {
   left: 161px;
   top: 335px;
 }
-.footer-head-2 {
+.footer-head-2  {
   position: absolute;
   width: 67px;
   height: 22px;
   left: 450px;
   top: 85px;
-  font-family: Lato;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 18px;
-  line-height: 22px;
-  color: #101010;
 }
 
 .footer-head-2 a {

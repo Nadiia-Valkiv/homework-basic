@@ -11,10 +11,15 @@ table {
     margin-top: 4vh;
     margin-bottom: 4vh;
     border-collapse: collapse;
-    border: 1px solid #565656;
+    border-radius: 5px;
+    border-style: hidden; /* hide standard table (collapsed) border */
+    box-shadow: 0 0 0 1px #666; /* this draws the table border  */ 
     padding: 2px;
     color: #858585;
     text-indent: 5px;
+}
+tr {
+    border: 1px solid #565656;
 }
 
 .first-column  {
@@ -82,6 +87,7 @@ input[type="search"] {
     margin: 0;
     background:no-repeat;
     border: none;
+    outline: none;
 }
 
 .third-column-table3 {
@@ -123,4 +129,18 @@ p {
     display: inline;
     margin: 0;
     margin-top: 3px;
+}
+
+th {
+    padding-top: 7px;
+    padding-bottom: 6.06px;
+}
+
+th.wrap {
+    padding-top: 13px;
+    padding-bottom: 12.84px;
+}
+.table-3 th{
+    padding-top: 6.15px;
+    padding-bottom: 6.3px;
 }
