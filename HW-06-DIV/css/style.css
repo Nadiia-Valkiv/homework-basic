@@ -279,7 +279,9 @@ footer {
   width: 101px;
   height: 22px;
   left: 734px;
-  top: 85px;
+  top: 85px;}
+
+.footer-head-p {
   font-weight: bold;
   font-size: 18px;
   line-height: 22px;
@@ -355,10 +357,12 @@ ul {
   width: 122px;
   height: 14px;
   top: 48px;
+  font-weight: 400;
 }
 
 .mail > a {
   font-size: 12px;
+  
   line-height: 14px;
   color: #101010;
   text-decoration: none;
